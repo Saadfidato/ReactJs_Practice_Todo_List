@@ -3,5 +3,5 @@
 <h3>Learnings</h3>
 <ul>
     <li>Array function</li>
-    <li>useState - working with counter and list.</li>
+    <li>useState - working with counter and list, spread operator.</li>
 </ul>
